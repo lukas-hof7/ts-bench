@@ -2,3 +2,4 @@
 set shell := ["zsh", "-cu"]
 # recipe_1 (2026-11-10): f2fa5be7
 # recipe_2 (2026-11-12): 1149f7ab
+# recipe_3 (2026-11-14): 024126f0
